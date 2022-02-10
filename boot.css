@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.centred{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+header.head {
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("./images/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center ;
+    background-size: cover;
+    height: 100vh;
+}
+.head{
+    margin-top: 6%;
+}
+header.head .head-subheading {
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height:1.5rem;
+    margin-bottom: 25px;
+    height: 20vh;
+    padding-top: 10%;
+}
+header.head .head-heading {
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+}
+.heading1{
+    padding-top: 8%;
+}
+.my-3{
+    padding-top: 10%;
+}
+.w-100 {
+    width: 70% !important;
+    height: 75vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.super{
+    width: 35%;
+}
+.great{
+    padding-top: 7%;
+}
+.start{
+    height: 200px;
+}
+.modal-fade.modal-content p.item-para{
+    font-style: italic;
+  margin-bottom: 2rem;
+}
+.bad{
+    padding-top: 7%;
+    padding-left: 4%;
+}
+.fun{
+    padding-top: 5%;
+}
+.kick{
+    padding-top: 3%;
+}
+.img-brand {
+    height: 25vh;
+  }
+.care{
+   position:relative;
+   top: 550%;
+   left: 0%;
+} 
+.good{
+    padding-left: 10%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+section#contact {
+    background-color: #212529;
+    background-image: url("./images/world\ map2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section #contact .sectheading1 {
+    color: #fff;
+}
